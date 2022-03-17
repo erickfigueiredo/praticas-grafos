@@ -1,0 +1,7 @@
+*.txt
+*.out
+*.exe
+
+*/*.txt
+*/*.out
+*/*.exe
